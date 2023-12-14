@@ -1,0 +1,9 @@
+======display property======
+     1.inline
+     2.block
+     3.inline-block
+     4.none
+
+     ====Alpha channel======
+     opacity  (o-1)
+     
